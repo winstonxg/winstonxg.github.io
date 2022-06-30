@@ -62,7 +62,6 @@
 {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://winstonxg.github.io/XP/Bili.json"},
 {"key":"Csp_xpath_88kanqiu","name": "88看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://winstonxg.github.io/XP/88kanqiu.json" },
-{"key":"csp_biubiu_扛把子","name":"扛把子影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://MaoTV/tangsan/json/扛把子影院.json"},
 {"key":"csp_xpath_kangbazi","name":"扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://winstonxg.github.io/XP/扛把子影院.json"},
 
 
